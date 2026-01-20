@@ -3,3 +3,4 @@ pierwsza sekcja
 druga sekcja
 trzecia sekcja
 galaz test
+nowa galaz feature
