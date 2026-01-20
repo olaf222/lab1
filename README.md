@@ -5,3 +5,4 @@ trzecia sekcja
 galaz test
 nowa galaz feature
 zmiana w main
+ala nie ma juz kota
